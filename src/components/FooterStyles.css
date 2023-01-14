@@ -1,0 +1,27 @@
+footer{
+    padding: 1rem;
+}
+.footer-d-block{
+    display: block;
+}
+.footer-d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    padding: 2rem;
+    position: relative;
+    height: 200px;
+    color: #666;
+}
+.box h2{
+    text-align: center;
+}
+.box ul{
+    list-style: none;
+}
+.created-by{
+    text-align: center;
+    color: #666;
+}
